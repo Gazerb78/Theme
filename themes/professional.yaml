@@ -1,0 +1,65 @@
+Professional:
+  # Typography
+  ha-font-family-body: "Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+  ha-font-family-heading: "Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+  paper-font-common-base_-_font-family: "Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+
+  # Shape & spacing
+  ha-card-border-radius: 14px
+  ha-card-border-width: 1px
+  ha-view-sections-column-gap: 20px
+  ha-view-sections-row-gap: 20px
+
+  # Brand colours (shared)
+  primary-color: "#2563eb"
+  accent-color: "#0d9488"
+  state-icon-active-color: "#2563eb"
+  switch-checked-color: "#2563eb"
+  slider-color: "#2563eb"
+  mdc-theme-primary: "#2563eb"
+  rgb-primary-color: "37, 99, 235"
+
+  modes:
+    light:
+      primary-background-color: "#f3f5f9"
+      secondary-background-color: "#e8ecf3"
+      card-background-color: "#ffffff"
+      ha-card-border-color: "#e2e8f0"
+      ha-card-box-shadow: "0 1px 2px rgba(15,23,42,.06), 0 4px 12px rgba(15,23,42,.04)"
+      primary-text-color: "#0f172a"
+      secondary-text-color: "#64748b"
+      disabled-text-color: "#94a3b8"
+      divider-color: "#e2e8f0"
+      app-header-background-color: "#ffffff"
+      app-header-text-color: "#0f172a"
+      sidebar-background-color: "#ffffff"
+      sidebar-text-color: "#334155"
+      sidebar-selected-background-color: "#eff4ff"
+      sidebar-selected-icon-color: "#2563eb"
+      sidebar-selected-text-color: "#1d4ed8"
+      table-row-background-color: "#ffffff"
+      table-row-alternative-background-color: "#f8fafc"
+    dark:
+      primary-background-color: "#0b1118"
+      secondary-background-color: "#111a24"
+      card-background-color: "#141d28"
+      ha-card-border-color: "#222e3d"
+      ha-card-box-shadow: "0 1px 2px rgba(0,0,0,.35), 0 6px 18px rgba(0,0,0,.25)"
+      primary-text-color: "#e6edf5"
+      secondary-text-color: "#94a3b8"
+      disabled-text-color: "#475569"
+      divider-color: "#222e3d"
+      app-header-background-color: "#0f1620"
+      app-header-text-color: "#e6edf5"
+      sidebar-background-color: "#0f1620"
+      sidebar-text-color: "#cbd5e1"
+      sidebar-selected-background-color: "#16263d"
+      sidebar-selected-icon-color: "#60a5fa"
+      sidebar-selected-text-color: "#93c5fd"
+      primary-color: "#3b82f6"
+      state-icon-active-color: "#60a5fa"
+      switch-checked-color: "#3b82f6"
+      slider-color: "#3b82f6"
+      rgb-primary-color: "59, 130, 246"
+      table-row-background-color: "#141d28"
+      table-row-alternative-background-color: "#111a24"
